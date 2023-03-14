@@ -34,7 +34,7 @@
                 android:clearTaskOnLaunch="true"
                 android:screenOrientation="sensorLandscape"
                 android:stateNotNeeded="true"
-                android:exported="true"
+                android:exported="false"
                 android:theme="@style/zxing_CaptureTheme"
                 android:windowSoftInputMode="stateAlwaysHidden"/>
   </application>
